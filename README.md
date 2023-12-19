@@ -45,22 +45,34 @@ Users can filter tasks by completed and active status, gaining a clear view of t
 
 ## Technologies
 
-The React Todo App leverages a powerful stack of technologies:
+The React Todo App leverages this stack of technologies to deliver a seamless user experience:
 
 ### React.js
 
-Built with React.js library, ensuring a modular and efficient development process.
+Built with the React.js library, the app ensures a modular and efficient development process, making it easy to manage and scale.
 
 ### TypeScript 📝
 
-Developed using TypeScript for static typing, enhancing code quality and developer productivity.
+Developed using TypeScript for static typing, enhancing code quality and developer productivity. TypeScript helps catch potential errors early in the development process, making the codebase more robust.
 
 ### Axios 🌐
 
-Incorporates Axios for efficient HTTP requests, enabling seamless communication with the backend server.
+Incorporates Axios for efficient HTTP requests, enabling seamless communication with the backend server. Axios simplifies the process of handling asynchronous operations, making data retrieval and updates smooth and reliable.
+
+### Bulma CSS 🎨
+
+Styled with Bulma CSS, the app boasts a modern and responsive design. Bulma provides a flexible and clean CSS framework, contributing to the app's aesthetic appeal and user-friendly interface.
+
+### React Transition Group 🔄
+
+Integrates React Transition Group for smooth and elegant transitions between different components and states. This enhances the user experience by adding subtle animations and transitions, making the app visually appealing.
+
+### Classnames and Sass 🎉
+
+Employs Classnames and Sass for efficient styling and class management. Classnames simplify dynamic class assignment, while Sass enhances CSS with variables, nesting, and other features, promoting a maintainable and organized styling approach.
 
 ### Local Storage
 
-Utilizes local storage to persistently store and retrieve user preferences, such as the selected theme, and user-generated todos.
+Utilizes local storage to persistently store and retrieve user preferences, such as the selected theme, and user-generated todos. This ensures a seamless user experience even when the user refreshes or revisits the application.
 
 ## [🔝 Back to Top](#react-todo-app-documentation)
