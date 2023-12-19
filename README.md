@@ -4,7 +4,9 @@
 
 The React Todo App is a robust and user-friendly application designed to help users manage their tasks efficiently. With features like adding, deleting, updating, selecting all, and clearing completed tasks, this app provides a seamless interface for organizing daily activities. Users can filter tasks by completed and active status. User data is stored locally, while other tasks are saved on a backend server.
 
-### [🚀 DEMO](./public/preview.gif)
+### [🚀 DEMO](https://bojkovladislav.github.io/todo-app/)
+
+![Preview](./public/preview.gif)
 
 **Sections:**
 
