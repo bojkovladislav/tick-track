@@ -1,10 +1,10 @@
-# React Todo App Documentation
+# Tick Track
 
 ## Introduction
 
-The React Todo App is a robust and user-friendly application designed to help users manage their tasks efficiently. With features like adding, deleting, updating, selecting all, and clearing completed tasks, this app provides a seamless interface for organizing daily activities. Users can filter tasks by completed and active status. User data is stored locally, while other tasks are saved on a backend server.
+The React Tick Track is a robust and user-friendly application designed to help users manage their tasks efficiently. With features like adding, deleting, updating, selecting all, and clearing completed tasks, this app provides a seamless interface for organizing daily activities. Users can filter tasks by completed and active status. User data is stored locally, while other tasks are saved on a backend server.
 
-### Add your todo -> [🚀 DEMO LINK](https://bojkovladislav.github.io/todo-app/)
+### Add your todo -> [🚀 DEMO LINK](https://bojkovladislav.github.io/tick-track/)
 
 ### Preview
 
@@ -17,7 +17,7 @@ The React Todo App is a robust and user-friendly application designed to help us
 
 ## Features
 
-Explore the exciting features that make the React Todo App stand out:
+Explore the exciting features that make the React Tick Track stand out:
 
 ### Adding Todo 📝
 
@@ -45,7 +45,7 @@ Users can filter tasks by completed and active status, gaining a clear view of t
 
 ## Technologies
 
-The React Todo App leverages this stack of technologies to deliver a seamless user experience:
+The Tick Track leverages this stack of technologies to deliver a seamless user experience:
 
 ### React.js
 
